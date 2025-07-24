@@ -1,0 +1,8 @@
+"# Large datasets and models" 
+"data/kaggle_dataset/" 
+"*.h5" 
+"*.pkl" 
+"data/archive.zip" 
+"data/*.zip" 
+"__pycache__/" 
+"*.pyc" 
